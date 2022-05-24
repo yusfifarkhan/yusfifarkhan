@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @yusfifarkhan
 - 👀 I’m interested in Computer Science
 - 🌱 Currently learning Android Development
-- 🌱 Past Experience: Graphic Designer @Creactiva 
+- 🌱 Past Experience: Graphic Designer @Creactiva Tegal
 - 🌱 Web Development (HTML, CSS, JS)
-- 🌱 Database Administration (mySQL, Oracle)
+- 🌱 Database Administration (mySQL, Mongo)
 - 🌱 Other Hobby: 3D Modelling and Audio Video Production
       
 
